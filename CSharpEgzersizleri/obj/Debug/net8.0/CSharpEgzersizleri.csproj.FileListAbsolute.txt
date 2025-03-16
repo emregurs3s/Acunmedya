@@ -1,0 +1,14 @@
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.AssemblyInfoInputs.cache
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.AssemblyInfo.cs
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.csproj.CoreCompileInputs.cache
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\bin\Debug\net8.0\CSharpEgzersizleri.exe
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\bin\Debug\net8.0\CSharpEgzersizleri.deps.json
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\bin\Debug\net8.0\CSharpEgzersizleri.runtimeconfig.json
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\bin\Debug\net8.0\CSharpEgzersizleri.dll
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\bin\Debug\net8.0\CSharpEgzersizleri.pdb
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.dll
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\refint\CSharpEgzersizleri.dll
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.pdb
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\CSharpEgzersizleri.genruntimeconfig.cache
+C:\Users\emreg\Desktop\Acunmedya\CSharpEgzersizleri\obj\Debug\net8.0\ref\CSharpEgzersizleri.dll

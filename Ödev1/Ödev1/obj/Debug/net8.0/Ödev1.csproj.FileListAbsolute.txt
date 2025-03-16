@@ -1,0 +1,14 @@
+C:\Users\emreg\source\repos\Ödev1\Ödev1\bin\Debug\net8.0\Ödev1.exe
+C:\Users\emreg\source\repos\Ödev1\Ödev1\bin\Debug\net8.0\Ödev1.deps.json
+C:\Users\emreg\source\repos\Ödev1\Ödev1\bin\Debug\net8.0\Ödev1.runtimeconfig.json
+C:\Users\emreg\source\repos\Ödev1\Ödev1\bin\Debug\net8.0\Ödev1.dll
+C:\Users\emreg\source\repos\Ödev1\Ödev1\bin\Debug\net8.0\Ödev1.pdb
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.AssemblyInfoInputs.cache
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.AssemblyInfo.cs
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.dll
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\refint\Ödev1.dll
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.pdb
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\Ödev1.genruntimeconfig.cache
+C:\Users\emreg\source\repos\Ödev1\Ödev1\obj\Debug\net8.0\ref\Ödev1.dll
